@@ -1,22 +1,22 @@
 # Meetup-22
-Chat W/ Firestore - Machine Learning Zero to Hero - Actions on Google Serverless for your bots with Firebase Cloud Functions
+Firebase Analytics - Remote Config - Security Rules
 
 ## Charlas :
 
-- **Realtime Chat W/ Firestore - Carlos Ugaz**
+- **Firebase Analytics - Carlos Ugaz**
 
-Slide : https://docs.google.com/presentation/d/1Tq6_BM0XpNMrsiTkXTdGfu2uIxpKb7pxIhzvqw7BGEU/edit?usp=sharing
+Slide : https://docs.google.com/presentation/d/1f5WR8wRXzTIVvk6F7aiwm4WOt3IU8a44Hc5jjuatyMM/edit?usp=sharing
 
-Repo  : https://github.com/carlosgub/RealtimeChatFirestore_MVVM_Clean_Koin
+Repo  : https://github.com/carlosgub/Resume
 
 
-- **Best practices with Flutter and Firestore - Diego Velasquez**
+- **Remote Config - Andres Luque**
 
 Slide : https://docs.google.com/presentation/d/1U3pUCzLI2phF4XaIqQR0h5DUMua6cmJDzQEkvR2KH6Y/edit?usp=sharing
 
 Repo  : https://github.com/diegoveloper/flutter_codelabs/tree/master/flutter_codelab_4
 
-- **Actions on Google Serverless for your bots with Firebase Cloud Functions - Carlo Renzo**
+- **Hansy Schmitt - Security Rules**
 
 Slide : https://docs.google.com/presentation/d/1nTwtU8OWYs_8Q3i_3hOPAWodDpDKzO--uA-4b6LUr8g/edit?usp=sharing
 
@@ -28,11 +28,11 @@ Repo  : https://github.com/emedinaa/kotlin-mvvm
 
 
 ## Álbum de fotos del MeetUp
-https://www.facebook.com/media/set/?set=oa.2689682537714585&type=3
+https://www.meetup.com/Firebase-Peru/photos/29758160/479223602/
 
 ## Sponsors
 
-- UTEC Ventures
+- Banco Scotiabank
 
 ## Grupo en Facebook 
 
